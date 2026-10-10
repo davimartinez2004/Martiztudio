@@ -1,0 +1,6 @@
+{
+  "name": "StudioMark - Marca de Agua & Identidad Web",
+  "description": "Generador de marcas de agua discretas para sitios web, insignias de autor profesionales, generador de snippets HTML/CSS/React y sugerencias de marca y dominios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
